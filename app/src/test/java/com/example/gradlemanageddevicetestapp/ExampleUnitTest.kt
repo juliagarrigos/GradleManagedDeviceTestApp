@@ -1,4 +1,4 @@
-package com.example.gradlemanageddevicewindowstestapp
+package com.example.gradlemanageddevicetestapp
 
 import org.junit.Test
 

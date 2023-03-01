@@ -1,4 +1,4 @@
-package com.example.gradlemanageddevicewindowstestapp
+package com.example.gradlemanageddevicetestapp
 
 import android.os.Bundle
 import com.google.android.material.snackbar.Snackbar
@@ -9,7 +9,7 @@ import androidx.navigation.ui.navigateUp
 import androidx.navigation.ui.setupActionBarWithNavController
 import android.view.Menu
 import android.view.MenuItem
-import com.example.gradlemanageddevicewindowstestapp.databinding.ActivityMainBinding
+import com.example.gradlemanageddevicetestapp.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

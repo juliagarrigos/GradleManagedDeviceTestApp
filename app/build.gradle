@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.gradlemanageddevicewindowstestapp'
+    namespace 'com.example.gradlemanageddevicetestapp'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.gradlemanageddevicewindowstestapp"
+        applicationId "com.example.gradlemanageddevicetestapp"
         minSdk 24
         targetSdk 31
         versionCode 1
